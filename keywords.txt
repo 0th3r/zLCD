@@ -11,23 +11,23 @@ zLCD	KEYWORD1
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
-begin			KEYWORD2
-initHwSpi			 KEYWORD2
-initSwSpi			 KEYWORD2
-init8bit		 	 KEYWORD2
-invertingText		 	 KEYWORD2
-free_spi		 	 KEYWORD2
-drawText		   KEYWORD2
-resumeDrawText		   KEYWORD2
-drawPixel		 	 KEYWORD2
-drawHLine		   KEYWORD2
-drawVLine	     KEYWORD2
-drawBox		     KEYWORD2
-drawFillBox	   KEYWORD2
-drawCircle	   KEYWORD2
-drawFillCircle	   KEYWORD2
-drawBitmap	   KEYWORD2
-fillBuffer	     KEYWORD2
-clearBuffer	   KEYWORD2
-clear	         KEYWORD2
-sendBuffer	         KEYWORD2
+begin	KEYWORD2
+initHwSpi	KEYWORD2
+initSwSpi	KEYWORD2
+init8bit	KEYWORD2
+invertingText	KEYWORD2
+free_spi	KEYWORD2
+drawText	KEYWORD2
+resumeDrawText	KEYWORD2
+drawPixel	KEYWORD2
+drawHLine	KEYWORD2
+drawVLine	KEYWORD2
+drawBox	KEYWORD2
+drawFillBox	KEYWORD2
+drawCircle	KEYWORD2
+drawFillCircle	KEYWORD2
+drawBitmap	KEYWORD2
+fillBuffer	KEYWORD2
+clearBuffer	KEYWORD2
+clear	KEYWORD2
+sendBuffer	KEYWORD2
