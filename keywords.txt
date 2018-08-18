@@ -6,7 +6,7 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-zLCD	KEYWORD1
+ST7920	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
